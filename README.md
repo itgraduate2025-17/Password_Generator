@@ -77,7 +77,7 @@ Random_Password_Generator/
 2. Run the application using the command:
 
 ```
-python password_generator.py
+python Password_Generator.py
 ```
 
 ---
