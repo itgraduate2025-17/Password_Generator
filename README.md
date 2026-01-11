@@ -1,4 +1,4 @@
-# 🔐 Random Password Generator (Python Internship Task)
+# 🔐 Password Generator (Python Internship Task)
 
 ## 📌 Project Overview
 
