@@ -63,4 +63,4 @@ python Password_Generator.py
 ## ✅ Conclusion
 
 This project demonstrates how Python can be used to build a **secure and customizable password generator**.
-It combines randomization, security rules, and a user-friendly GUI, making it suitable for real-world usage and internship evaluation.
+It combines randomization, security rules for real-world usage and internship evaluation.
